@@ -73,6 +73,6 @@
     "minimalist": "^1.0.0",
     "minimist": "^1.2.5",
     "serialize-javascript": "^5.0.1",
-    "yargs-parser": "^20.0.0"
+    "yargs-parser": "^13.1.2"
   }
 }
